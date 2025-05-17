@@ -1,0 +1,11 @@
+{
+  "muscle_groups": {
+    "arms": ["forearms", "biceps", "triceps", "brachialis"],
+    "back": ["neck", "traps", "lats", "lower back", "middle back"],
+    "calves": ["calves", "soleus"],
+    "chest": ["chest", "serratus anterior"],
+    "core": ["abs", "obliques"],
+    "legs": ["abductors", "adductors", "quads", "hamstrings", "glutes"],
+    "shoulders": ["shoulders"]
+  }
+}
